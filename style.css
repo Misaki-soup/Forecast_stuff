@@ -1,0 +1,13 @@
+html {
+    background-color: cadetblue;
+}
+body {
+    font-size: 17px;
+}
+
+label {
+    font-size: 1.5em;
+}
+button.search {
+    font-size: 1.5em;
+}
